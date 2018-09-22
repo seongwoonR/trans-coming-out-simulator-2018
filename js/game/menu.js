@@ -98,11 +98,11 @@ function non_binary(){
 	R("다시 질문할게.");
 	R("누구의 이야기를 듣고싶어?");
 	Choose({
-		"너의 이야기": function(){
+		"너의 이야기(남성)": function(){
 			p("네 이야기를 들어볼래.");
 			Play_2();
 		},
-		"네 친구의 이야기":  function(){
+		"네 친구의 이야기(여성)":  function(){
 			p("네 친구의 이야기를 들어볼래.");
 			tw_play();
 		}
