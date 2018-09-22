@@ -1,0 +1,26 @@
+**Trans Coming Out Simulator 218**    
+A game mixed bag of truths and lies.
+
+**Play it [on Itch.io]( )!**
+
+---
+
+**Story about:** [Raul] and [D-D] | [@_not__not_](https://twitter.com/_not__not_)
+
+**Created by:** [Raul](http://seongwoonr.github.io) | [@R__aulT](https://twitter.com/R__aulT)
+
+**Referenced by:** [Nicky Case](http://ncase.me/) | [@ncasenmare](https://twitter.com/ncasenmare)
+
+**Behind-the-scenes:** [My open design document.](http://)
+
+---
+
+**Audio Credits (All CC0 Sounds from FreeSound):**
+
+* [Text Message](http://www.freesound.org/people/Porphyr/sounds/191678/)
+* [Room Ambience](http://www.freesound.org/people/gchase/sounds/144046/)
+* [Clock Ticking](http://www.freesound.org/people/olver/sounds/130388/)
+* [Night City Ambience](http://www.freesound.org/people/amszala/sounds/85240/)
+* [pencil] (https://www.freesound.org/people/InspectorJ/sounds/398271/)
+* [cellphone] (https://www.freesound.org/people/SmartWentCody/sounds/179012/)
+* [scanner beep] (https://www.freesound.org/people/kalisemorrison/sounds/202530/)
