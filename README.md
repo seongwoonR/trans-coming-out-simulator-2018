@@ -21,6 +21,9 @@ A game mixed bag of truths and lies.
 * [Room Ambience](http://www.freesound.org/people/gchase/sounds/144046/)
 * [Clock Ticking](http://www.freesound.org/people/olver/sounds/130388/)
 * [Night City Ambience](http://www.freesound.org/people/amszala/sounds/85240/)
-* [pencil] (https://www.freesound.org/people/InspectorJ/sounds/398271/)
-* [cellphone] (https://www.freesound.org/people/SmartWentCody/sounds/179012/)
-* [scanner beep] (https://www.freesound.org/people/kalisemorrison/sounds/202530/)
+* [pencil](https://www.freesound.org/people/InspectorJ/sounds/398271/)
+* [cellphone](https://www.freesound.org/people/SmartWentCody/sounds/179012/)
+* [scanner beep](https://www.freesound.org/people/kalisemorrison/sounds/202530/)
+* [table sound](https://freesound.org/people/NeoSpica/sounds/434146/)
+* [lab](https://freesound.org/people/joedeshon/sounds/265350/)
+
