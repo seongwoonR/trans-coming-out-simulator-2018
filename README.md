@@ -1,7 +1,7 @@
-**Trans Coming Out Simulator 218**    
+**Trans Coming Out Simulator 2018**    
 A game mixed bag of truths and lies.
 
-**Play it [on Itch.io]( )!**
+**Play it in English [on Itch.io]( )!**
 
 ---
 
