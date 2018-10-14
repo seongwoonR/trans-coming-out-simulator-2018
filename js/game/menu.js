@@ -9,7 +9,7 @@ function Start(){
 	Show("me","me");
 
 
-	PlaySound("bg","laboratory",{loop:-1, volume:0.5});
+	PlaySound("bg","laboratory",{loop:-1, volume:0.3});
 
 	//////////////////////////////
 
