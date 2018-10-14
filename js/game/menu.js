@@ -277,7 +277,11 @@ function main_last(){
 
 	Wait(1000);
 	queue(ClearDialogue,0);
-	Wait(1000);
+    
+    Show("me", "me_write");
+    PlaySound("sfx", "pencil");
+    Wait(2000);
+    Show("me", "me");
 
 	R("이 게임에 모범답안이란 건 없어.");
 	R("단지 선택에는 책임이 따를 뿐이지.");
