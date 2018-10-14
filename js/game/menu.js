@@ -84,8 +84,6 @@ function Play(message){
 			$.gender = 3;
 			p(message);
 			R("앗, 논 바이너리야?");
-			R("설마 재미로 누른 건 아니겠지?");
-			p("에이.");
 			R("미안해,");
 			R("능력이 부족해서 바이너리밖에 만들지 못했어.");
 			non_binary();
