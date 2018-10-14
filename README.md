@@ -11,7 +11,7 @@ A game mixed bag of truths and lies.
 
 **Referenced by:** [Nicky Case](http://ncase.me/) | [@ncasenmare](https://twitter.com/ncasenmare)
 
-**Behind-the-scenes:** [My open design document.](http://)
+**Behind-the-scenes:** [My open design document.](https://seongwoonr.github.io/trans-cos-2018/)
 
 ---
 
@@ -22,8 +22,8 @@ A game mixed bag of truths and lies.
 * [Clock Ticking](http://www.freesound.org/people/olver/sounds/130388/)
 * [Night City Ambience](http://www.freesound.org/people/amszala/sounds/85240/)
 * [pencil](https://www.freesound.org/people/InspectorJ/sounds/398271/)
-* [cellphone](https://www.freesound.org/people/SmartWentCody/sounds/179012/)
+* [cell phone vibration](https://www.freesound.org/people/SmartWentCody/sounds/179012/)
 * [scanner beep](https://www.freesound.org/people/kalisemorrison/sounds/202530/)
-* [table sound](https://freesound.org/people/NeoSpica/sounds/434146/)
+* [table smash](https://freesound.org/people/NeoSpica/sounds/434146/)
 * [lab](https://freesound.org/people/joedeshon/sounds/265350/)
-
+* [School](https://freesound.org/people/klankbeeld/sounds/192930/)
