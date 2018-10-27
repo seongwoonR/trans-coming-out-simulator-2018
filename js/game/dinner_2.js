@@ -242,7 +242,7 @@ function saying_4(message){
 	m("농담처럼 넘어가면 되잖아.");
 	y("...");
 	Choose({
-		"수술하지 않아도 나를 남자로 받아들여 줄 거예요?": function(message){
+		"수술 안 해도 나를 남자로 받아들여 줄 거예요?": function(message){
 			y(message);
 			y("수술하지 않으면");
 			y("돈을 쓰지 않으면 내가 나로 생활하지 못하는 사회잖아요.");
