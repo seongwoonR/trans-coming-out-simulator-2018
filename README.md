@@ -1,7 +1,8 @@
 **Trans Coming Out Simulator 2018**    
 A game mixed bag of truths and lies.
 
-**Play it in English [on Itch.io]( )!**
+**Play it in English [on Itch.io](https://seongwoonr.itch.io/trans-coming-out-simulator-2018)!**
+**Play it in Korean [on github page](https://seongwoonr.github.io/trans-coming-out-simulator-2018)!**
 
 ---
 
