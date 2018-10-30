@@ -13,7 +13,7 @@ A game mixed bag of truths and lies.
 
 **Referenced by:** [Nicky Case](http://ncase.me/) | [@ncasenmare](https://twitter.com/ncasenmare)
 
-**Behind-the-scenes:** [My open design document.](https://seongwoonr.github.io/trans-cos-2018/)
+**Behind-the-scenes(Korean):** [My blog pages.](https://seongwoonr.github.io/trans-cos-2018/)
 
 ---
 
